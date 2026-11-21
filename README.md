@@ -4,7 +4,7 @@ End-to-end supply chain analysis of **99,441 orders** from Olist, a Brazilian e-
 
 **Tools:** Python (Pandas, Prophet, statsmodels), SQL (SQLite, window functions), Plotly, Streamlit
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png.png)
 
 ## Business problem
 
@@ -82,8 +82,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
 To re-run the notebook, download the dataset from Kaggle and place the CSV files in the project folder (also install `prophet` and `statsmodels`).
 
 ## Author
 
-**Rahul Kumhar**, Supply Chain & Operations Analytics · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Rahul Kumhar**, Supply Chain & Operations Analytics · [LinkedIn](https://www.linkedin.com/in/rahul-k-5825b122a)
