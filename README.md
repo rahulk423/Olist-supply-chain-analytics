@@ -4,7 +4,14 @@ End-to-end supply chain analysis of **99,441 orders** from Olist, a Brazilian e-
 
 **Tools:** Python (Pandas, Prophet, statsmodels), SQL (SQLite, window functions), Plotly, Streamlit
 
-![Dashboard](images/dashboard.png.png)
+![Dashboard](images/dashbboard.png.png)
+
+![Expected Orders](<images/Expected orders.png>)
+
+![Seller Scorecard](<images/Seller scorecard.png>)
+
+![Top Items Sold](<images/Top items sold.png>)
+
 
 ## Business problem
 
